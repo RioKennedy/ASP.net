@@ -1,0 +1,173 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/default.html",
+      "PackagePath": "staticwebassets/default.html"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/foo.html",
+      "PackagePath": "staticwebassets/foo.html"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/images/1400fe16-924b-48c9-b719-9425c7d9e475_IMG20230120193029.jpg",
+      "PackagePath": "staticwebassets/images/1400fe16-924b-48c9-b719-9425c7d9e475_IMG20230120193029.jpg"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/images/4ec5bc29-ff80-4cd2-9cf2-e34103bd7430_IMG20230120193029.jpg",
+      "PackagePath": "staticwebassets/images/4ec5bc29-ff80-4cd2-9cf2-e34103bd7430_IMG20230120193029.jpg"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/images/74dd08c6-34be-46ec-a9fb-f1cb5f13e5e6_noimage.jpg",
+      "PackagePath": "staticwebassets/images/74dd08c6-34be-46ec-a9fb-f1cb5f13e5e6_noimage.jpg"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/images/7677d750-fbf2-4da3-9916-f8bd7d111e35_IMG20230120193029.jpg",
+      "PackagePath": "staticwebassets/images/7677d750-fbf2-4da3-9916-f8bd7d111e35_IMG20230120193029.jpg"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/images/employee.png",
+      "PackagePath": "staticwebassets/images/employee.png"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/images/image1.jpg",
+      "PackagePath": "staticwebassets/images/image1.jpg"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/images/noaccess.png",
+      "PackagePath": "staticwebassets/images/noaccess.png"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/images/noimage.jpg",
+      "PackagePath": "staticwebassets/images/noimage.jpg"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/js/CustomScript.js",
+      "PackagePath": "staticwebassets/js/CustomScript.js"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/lib/bootstrap/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/lib/bootstrap/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/lib/bootstrap/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/lib/bootstrap/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/lib/bootstrap/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/lib/bootstrap/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/lib/bootstrap/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/lib/bootstrap/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/lib/bootstrap/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/lib/bootstrap/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/lib/bootstrap/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/lib/bootstrap/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/lib/bootstrap/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/lib/bootstrap/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/lib/bootstrap/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/lib/bootstrap/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/lib/bootstrap/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/lib/bootstrap/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/lib/bootstrap/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/lib/bootstrap/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/lib/jquery-validate/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/lib/jquery-validate/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/lib/jquery-validation-unobtrusive/jquery.validation.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validation.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/lib/jquery-validation-unobtrusive/jquery.validation.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validation.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/lib/jquery/jquery-3.7.1.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/jquery-3.7.1.min.js"
+    },
+    {
+      "Id": "/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/wwwroot/lib/jquery/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/jquery.js"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.EmployeeManagement.props",
+      "PackagePath": "build\\EmployeeManagement.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.EmployeeManagement.props",
+      "PackagePath": "buildMultiTargeting\\EmployeeManagement.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.EmployeeManagement.props",
+      "PackagePath": "buildTransitive\\EmployeeManagement.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

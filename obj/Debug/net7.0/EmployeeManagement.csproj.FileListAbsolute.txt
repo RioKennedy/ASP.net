@@ -1,0 +1,159 @@
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/appsettings.Development.json
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/appsettings.json
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/EmployeeManagement
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/EmployeeManagement.deps.json
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/EmployeeManagement.runtimeconfig.json
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/EmployeeManagement.dll
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/EmployeeManagement.pdb
+/Users/riokennedy/Desktop/C#/EmployeeManagement/obj/Debug/net7.0/EmployeeManagement.csproj.AssemblyReference.cache
+/Users/riokennedy/Desktop/C#/EmployeeManagement/obj/Debug/net7.0/EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riokennedy/Desktop/C#/EmployeeManagement/obj/Debug/net7.0/EmployeeManagement.AssemblyInfoInputs.cache
+/Users/riokennedy/Desktop/C#/EmployeeManagement/obj/Debug/net7.0/EmployeeManagement.AssemblyInfo.cs
+/Users/riokennedy/Desktop/C#/EmployeeManagement/obj/Debug/net7.0/EmployeeManagement.csproj.CoreCompileInputs.cache
+/Users/riokennedy/Desktop/C#/EmployeeManagement/obj/Debug/net7.0/EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+/Users/riokennedy/Desktop/C#/EmployeeManagement/obj/Debug/net7.0/staticwebassets/msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/riokennedy/Desktop/C#/EmployeeManagement/obj/Debug/net7.0/staticwebassets/msbuild.build.EmployeeManagement.props
+/Users/riokennedy/Desktop/C#/EmployeeManagement/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.EmployeeManagement.props
+/Users/riokennedy/Desktop/C#/EmployeeManagement/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.EmployeeManagement.props
+/Users/riokennedy/Desktop/C#/EmployeeManagement/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/riokennedy/Desktop/C#/EmployeeManagement/obj/Debug/net7.0/staticwebassets.build.json
+/Users/riokennedy/Desktop/C#/EmployeeManagement/obj/Debug/net7.0/staticwebassets.development.json
+/Users/riokennedy/Desktop/C#/EmployeeManagement/obj/Debug/net7.0/scopedcss/bundle/EmployeeManagement.styles.css
+/Users/riokennedy/Desktop/C#/EmployeeManagement/obj/Debug/net7.0/EmployeeManagement.dll
+/Users/riokennedy/Desktop/C#/EmployeeManagement/obj/Debug/net7.0/refint/EmployeeManagement.dll
+/Users/riokennedy/Desktop/C#/EmployeeManagement/obj/Debug/net7.0/EmployeeManagement.pdb
+/Users/riokennedy/Desktop/C#/EmployeeManagement/obj/Debug/net7.0/EmployeeManagement.genruntimeconfig.cache
+/Users/riokennedy/Desktop/C#/EmployeeManagement/obj/Debug/net7.0/ref/EmployeeManagement.dll
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/EmployeeManagement.staticwebassets.runtime.json
+/Users/riokennedy/Desktop/C#/EmployeeManagement/obj/Debug/net7.0/EmployeeManagement.RazorAssemblyInfo.cache
+/Users/riokennedy/Desktop/C#/EmployeeManagement/obj/Debug/net7.0/EmployeeManagement.RazorAssemblyInfo.cs
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/AWSSDK.Core.dll
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/AWSSDK.SecurityToken.dll
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/DnsClient.dll
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/MongoDB.Bson.dll
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/MongoDB.Driver.dll
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/MongoDB.Driver.Core.dll
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/MongoDB.EntityFrameworkCore.dll
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/MongoDB.Libmongocrypt.dll
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/SharpCompress.dll
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/Snappier.dll
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/ZstdSharp.dll
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/runtimes/linux/native/libmongocrypt.so
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/runtimes/osx/native/libmongocrypt.dylib
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/runtimes/win/native/mongocrypt.dll
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/MySqlConnector.dll
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/riokennedy/Desktop/C#/EmployeeManagement/obj/Debug/net7.0/Employee.61744648.Up2Date
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/Humanizer.dll
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/System.CodeDom.dll
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/nlog.config
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/NLog.dll
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/NLog.Extensions.Logging.dll
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/NLog.Web.AspNetCore.dll
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/riokennedy/Desktop/C#/EmployeeManagement/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/nlog.config
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/appsettings.Development.json
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/appsettings.json
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/EmployeeManagement.staticwebassets.runtime.json
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/EmployeeManagement
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/EmployeeManagement.deps.json
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/EmployeeManagement.runtimeconfig.json
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/EmployeeManagement.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/EmployeeManagement.pdb
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/AWSSDK.Core.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/AWSSDK.SecurityToken.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/DnsClient.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/Humanizer.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/MongoDB.Bson.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/MongoDB.Driver.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/MongoDB.Driver.Core.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/MongoDB.EntityFrameworkCore.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/MongoDB.Libmongocrypt.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/MySqlConnector.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/NLog.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/NLog.Extensions.Logging.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/NLog.Web.AspNetCore.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/SharpCompress.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/Snappier.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/System.CodeDom.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/ZstdSharp.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/runtimes/linux/native/libmongocrypt.so
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/runtimes/osx/native/libmongocrypt.dylib
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/runtimes/win/native/mongocrypt.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/obj/Debug/net7.0/EmployeeManagement.csproj.AssemblyReference.cache
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/obj/Debug/net7.0/EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/obj/Debug/net7.0/EmployeeManagement.AssemblyInfoInputs.cache
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/obj/Debug/net7.0/EmployeeManagement.AssemblyInfo.cs
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/obj/Debug/net7.0/EmployeeManagement.csproj.CoreCompileInputs.cache
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/obj/Debug/net7.0/EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/obj/Debug/net7.0/EmployeeManagement.RazorAssemblyInfo.cache
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/obj/Debug/net7.0/EmployeeManagement.RazorAssemblyInfo.cs
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/obj/Debug/net7.0/staticwebassets.build.json
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/obj/Debug/net7.0/staticwebassets.development.json
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/obj/Debug/net7.0/staticwebassets/msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/obj/Debug/net7.0/staticwebassets/msbuild.build.EmployeeManagement.props
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.EmployeeManagement.props
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.EmployeeManagement.props
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/obj/Debug/net7.0/scopedcss/bundle/EmployeeManagement.styles.css
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/obj/Debug/net7.0/Employee.61744648.Up2Date
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/obj/Debug/net7.0/EmployeeManagement.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/obj/Debug/net7.0/refint/EmployeeManagement.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/obj/Debug/net7.0/EmployeeManagement.pdb
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/obj/Debug/net7.0/EmployeeManagement.genruntimeconfig.cache
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/obj/Debug/net7.0/ref/EmployeeManagement.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/EntityFramework.SqlServer.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/EntityFramework.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/Google.Protobuf.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/K4os.Compression.LZ4.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/K4os.Compression.LZ4.Streams.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/K4os.Hash.xxHash.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/MySql.Data.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/MySql.Data.EntityFramework.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/System.Data.SqlClient.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/runtimes/win-x64/native/comerr64.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/runtimes/win-x64/native/gssapi64.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/runtimes/win-x64/native/k5sprt64.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/runtimes/win-x64/native/krb5_64.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/runtimes/win-x64/native/krbcc64.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/runtimes/win-arm64/native/sni.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/runtimes/win-x64/native/sni.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/runtimes/win-x86/native/sni.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/BouncyCastle.Crypto.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/riokennedy/Desktop/Rio Belajar/C#/EmployeeManagement/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
